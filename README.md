@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Loen-lx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Loen-lx/Loen-lx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+/add 汉化===tg支持语言包功能，点击【链接】即可修改为中文。
+/add testmd===md::加粗**bold**
+/添加你的关键字===关键字：: :（链接）
+/关于规则
+/添加G关键===回复1 ||回复2 ||回复3
